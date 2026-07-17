@@ -1,17 +1,27 @@
-![Kauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueFelipe10&show_icons=true&theme=github_dark&hide_border=true)
+👋 Hi there!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueFelipe10&layout=compact&theme=github_dark&hide_border=true)
+I'm a Software Engineering student at Univates University in Lajeado, RS, with a technical degree in Industrial Automation from IFSUL – Câmpus Lajeado. Currently working as Fullstack Developer at Supernova Digital.
 
-## 📫 How to reach me
+💻 My favorite tools and technologies
 
-- **LinkedIn:** [Kauê Felipe Valesan](https://www.linkedin.com/in/kau%C3%AA-felipe-valesan-70032135a/)
-- **Email:** [kauevalesan@gmail.com](mailto:kauevalesan@gmail.com)
-- **Portfolio:** Under development
+icon
+React	 icon
+Python	icon
+TypeScript	PHP
+PHP	icon
+AWS
+🌱 Currently Learning
 
----
+Clean Architecture and Design Patterns
 
-<div align="center">
+Advanced TypeScript and Node.js
 
-### ⚡ Building intelligent solutions with Python, APIs and Artificial Intelligence.
+AI frameworks like TensorFlow and PyTorch
 
-</div>
+📫 How to reach me
+
+LinkedIn: https://www.linkedin.com/in/kauê-felipe-valesan-70032135a/
+
+Email: kauevalesan@gmail.com
+
+Portfolio: Not yet
