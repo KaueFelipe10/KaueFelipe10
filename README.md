@@ -4,7 +4,7 @@ I'm a **Software Engineering student at Univates University**, located in Lajead
 
 I also have a technical degree in **Industrial Automation from IFSul – Câmpus Lajeado**.
 
-Currently, I work as a **Fullstack Developer at Supernova Digital**, developing AI-powered chatbots, API integrations, business automations and cloud-based applications.
+Currently, I work as a **Developer**, developing AI-powered chatbots, API integrations, business automations and cloud-based applications.
 
 I'm passionate about **Python, Artificial Intelligence, software development and creating intelligent solutions for real-world problems**.
 
@@ -13,7 +13,7 @@ I'm passionate about **Python, Artificial Intelligence, software development and
 ## 💻 My favorite tools and technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,aws,postgres,docker,git,github,vscode,c&perline=8" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,aws,postgres,git,github,vscode,c,c++&perline=8" alt="Technologies"/>
 </p>
 
 ---
